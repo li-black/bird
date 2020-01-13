@@ -1,0 +1,13 @@
+names=['孙家伟','张强','任兵兵']
+sports=['游泳','骑车']
+print(names[0])
+print(names[1])
+print(names[2])
+message='“你好，'+names[0]+"。”"
+print(message)
+message='“你好，'+names[1]+"。”"
+print(message)
+message='“你好，'+names[2]+"。”"
+print(message)
+message=names[0]+"喜欢的运动是"+sports[0]
+print(message)
